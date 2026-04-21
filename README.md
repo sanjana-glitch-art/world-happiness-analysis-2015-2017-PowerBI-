@@ -24,8 +24,6 @@ The project includes data cleaning, model building, DAX calculations, and multi�
     ├── images/                            # Screenshots of dashboard pages
     │   ├── dashboard_page1.png
     │   ├── dashboard_page2.png
-    │   ├── map_visual.png
-    │   └── trends_visual.png
     │
     └── README.md
 
