@@ -1,0 +1,10 @@
+GrowthRate =
+VAR PrevYear =
+    CALCULATE(
+        AVERAGE('Happiness'[Happiness Score]),
+        PREVIOUSYEAR('Happiness'[Year])
+    )
+VAR CurrYear =
+    AVERAGE('Happiness'[Happiness Score])
+RETURN
+    DIVIDE(CurrYear - PrevYear, PrevYear)
