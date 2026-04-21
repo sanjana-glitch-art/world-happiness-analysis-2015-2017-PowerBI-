@@ -1,0 +1,6 @@
+Avg_Factors =
+AVERAGE(
+    'Happiness'[Economy] +
+    'Happiness'[Health] +
+    'Happiness'[Freedom]
+)
