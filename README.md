@@ -146,12 +146,3 @@ Full DAX files are included in the `DAX/` folder.
 
 Kaggle — World Happiness Report  
 https://www.kaggle.com/datasets/unsdsn/world-happiness
-
----
-
-## 📘 Author
-
-Sanjana Thummalapalli 
-This project was completed using **Power BI**.  
-The repository is structured for clarity, reproducibility, and portfolio presentation.
-
